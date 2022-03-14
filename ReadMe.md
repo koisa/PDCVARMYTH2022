@@ -16,21 +16,13 @@ startup.m in the command line window of MATLAB to set path and check for the req
 
 In addition to verifying the path, it will check the existence of the required MATLAB toolboxes. All other routines, including data simulation and total PDC estimation are included. This is a standalone version.
 
-
-
 To run all Examples, choose [1], and [0] otherwise
 
-
-
 The figures it generates are similar to those in the paper. Differences are due to possibly different random seeds.
-
-
 
 Then you may run each Example individually
 
 `> Example1 | Example2 | Example3 | Example4`
-
-
 
 This material will be incorporated in future releases of the AsympPDC package:
 
