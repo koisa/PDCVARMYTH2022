@@ -5,7 +5,7 @@ February 1, 2022
 The PDCVARMYTH2022 package is MATLAB routines and functions comprising Supplemental Material to illustrate on how to generate all figures of the article
 
 * Luiz A. Baccal´a and Koichi Sameshima (2022) ‘Partial Directed Coherence and the Vector Autoregressive Modelling Myth and
-  a Caveat. ](https://doi.org/10.3389/fnetp.2022.845327) 
+  a Caveat. ](https://www.frontiersin.org/articles/10.3389/fnetp.2022.845327) 
 
 ## Installation and usage
 
@@ -32,5 +32,3 @@ This material will be incorporated in future releases of the AsympPDC package:
 
 These routines are distributed under GNU General Public License v3.0 under
 authorship of Koichi Sameshima and Luiz A. Baccal - January 2022.
-
-
