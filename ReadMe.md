@@ -25,7 +25,7 @@ To play with the scripts,  you may run each Example script individually
 
 This material will be incorporated into future releases of the AsympPDC package:
 
-* [Sameshima K, Baccalá LA. Asymp PDC Package (2014).[Click here](https://www.lcs.poli.usp.br/~baccala/pdc/CRCBrainConnectivity/AsympPDC/index.html). [Accessed: 2022-01-29.] and a more recent version [here](https://github.com/koisa/asympPDC))
+* [Sameshima K, Baccalá LA. Asymp PDC Package (2014).[Click here](https://www.lcs.poli.usp.br/~baccala/pdc/CRCBrainConnectivity/AsympPDC/index.html). [Accessed: 2022-01-29.] and a more recent version [here](https://github.com/koisa/asympPDC)
 
 ## License
 
